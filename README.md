@@ -1,2 +1,2 @@
 # SocialMediaDB_Design
-fghjkl;'fghjkl
+I have designed database for simple social media application
